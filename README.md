@@ -13,6 +13,9 @@ A time series machine learning project that predicts average daily temperature u
 - [Project Files](#project-files)
 - [Results](#results)
 - [Evaluation Metrics](#evaluation-metrics)
+- [Key Insights](#key-insights)
+- [License](#license)
+- [Contributing](#contributing)
 
 ## 🎯 Overview
 
