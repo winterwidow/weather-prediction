@@ -15,7 +15,6 @@ A time series machine learning project that predicts average daily temperature u
 - [Evaluation Metrics](#evaluation-metrics)
 - [Key Insights](#key-insights)
 - [License](#license)
-- [Contributing](#contributing)
 
 ## 🎯 Overview
 
@@ -204,10 +203,6 @@ These metrics provide a comprehensive view of:
 ## 📝 License
 
 This project is open source and available for educational and research purposes.
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page or submit a pull request.
 
 ---
 
